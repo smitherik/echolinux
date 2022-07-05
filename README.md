@@ -1,6 +1,8 @@
 echolinux
 =========
 
+See https://forums.raspberrypi.com/viewtopic.php?t=306811 for discussion on this software and its installation. 
+
 EchoLink port to Linux
 Readme for echolinux 0.17a alpha
 
